@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Demo</string>
+
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in_description">Sign In by your ID to use our features</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="enter_user_name">Enter Username</string>
+    <string name="submit">Submit</string>
+    <string name="text_hint">Enter text here</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="user_already_exist">"Username already exist ! "</string>
+    <string name="no_space_allow_in_user_name">No space allow in username.</string>
+    <string name="user_not_exist">"Username not exist, Please register username."</string>
+    <string name="password_incorrect">"Password is incorrect !"</string>
+    <string name="medicines">Medicines</string>
+</resources>

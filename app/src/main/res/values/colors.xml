@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#388E3C</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#388E3C</color>
+
+    <color name="colorThemeFont">#fff</color>
+    <color name="colorThemeBackground">#000</color>
+
+    <color name="colorLoginDataFont">#388E3C</color>
+    <color name="colorSignInBackground">#232324</color>
+
+    <color name="colorLoginFont">#388E3C</color>
+    <color name="colorUserAuthenticationDivider">#444445</color>
+    <color name="colorThemeIcon">#fff</color>
+    <color name="colorCell">#121212</color>
+
+</resources>
